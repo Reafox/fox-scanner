@@ -15,7 +15,7 @@ namespace fox_scanner{
         {71,  U'к'}, {88,  U'л'}, {102, U'м'},
         {122, U'н'}, {128, U'о'}, {132, U'п'},
         {150, U'р'}, {156, U'с'}, {173, U'т'},
-        {177, U'ф'}, {180, U'ч'}, {186, U'ц'}
+        {177, U'ф'}, {180, U'ц'}, {192, U'ч'}
     };
 
     const std::size_t    keyword_init_table_size = size(keyword_init_table);
